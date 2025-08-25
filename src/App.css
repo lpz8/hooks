@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.character-card {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.character-img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
